@@ -1,4 +1,4 @@
-# Week 1 - Machine Learning Models from Scratch (Nexus Club - AIML)
+# Week 1 - Machine Learning Models
 
 ## Problem Statement
 The objective of this assignment is to implement three basic machine learning models using only NumPy, Pandas, and fundamental mathematical logic.
