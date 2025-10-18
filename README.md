@@ -1,16 +1,21 @@
-# Week 1 - Machine Learning Models
+# Machine Learning Algorithms
 
 ## Problem Statement
-The objective of this assignment is to implement three basic machine learning models using only NumPy, Pandas, and fundamental mathematical logic.
 
-The models implemented are:
-1. Linear Regression – for predicting continuous values  
-2. Logistic Regression – for binary classification  
-3. K-Nearest Neighbors (KNN) – for classification based on distance metric
+The objective of this assignment is to develop a practical understanding of how basic machine learning models work internally.  
+By implementing these algorithms from scratch, we explore how parameters are optimized, how predictions are made, and how accuracy is measured without the help of pre-built tools.
 
-## Tools and Libraries Used
-- Python 
-- NumPy  
-- Pandas  
-- Matplotlib (for visualization)  
-- scikit-learn (only for generating sample datasets)
+The implemented models include:
+
+- **Linear Regression** – Predicts continuous outcomes by finding the best-fit line using gradient descent.  
+- **Logistic Regression** – Performs binary classification by estimating probabilities using the sigmoid function.  
+- **K-Nearest Neighbors (KNN)** – Classifies data based on the majority class among the nearest neighbors in feature space.
+
+
+## Implementation Details
+
+Each model is implemented using only:
+- **NumPy** for numerical operations  
+- **Pandas** for data handling  
+- **Matplotlib** for visualization  
+- **Pickle** for saving the trained models  
